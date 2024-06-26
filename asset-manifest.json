@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/dash/static/css/main.372feb36.css",
+    "main.js": "/dash/static/js/main.67bfdc64.js",
+    "static/js/453.b4e3de2c.chunk.js": "/dash/static/js/453.b4e3de2c.chunk.js",
+    "static/media/intro-img.jpg": "/dash/static/media/intro-img.f73dc7a72a035ae90c9e.jpg",
+    "static/media/coreDois.jpg": "/dash/static/media/coreDois.c99887742430c2f0f6b0.jpg",
+    "static/media/coreQuatro.jpg": "/dash/static/media/coreQuatro.1cc7ceb0633d9726a11b.jpg",
+    "static/media/selo.png": "/dash/static/media/selo.a5885bbb2ba6c44d1abb.png",
+    "static/media/coreTres.jpg": "/dash/static/media/coreTres.cdf0f3696e91b6ec9105.jpg",
+    "static/media/coreUm.jpg": "/dash/static/media/coreUm.03959da2892d5ac9fb36.jpg",
+    "static/media/logo.png": "/dash/static/media/logo.cfdd14abd8a6cfa6e855.png",
+    "static/media/perfil.avif": "/dash/static/media/perfil.78af3b7d6a6d1c32b155.avif",
+    "static/media/zomato.svg": "/dash/static/media/zomato.97f5b69ea32e7efd6f29428d9c55c420.svg",
+    "static/media/intel.svg": "/dash/static/media/intel.e1c8b286d0c89dff3c2969c26c4233a8.svg",
+    "static/media/amazon.svg": "/dash/static/media/amazon.b154e1d5a9331b25a83d05ebf8e967f4.svg",
+    "static/media/ebay.svg": "/dash/static/media/ebay.5c62a144aab202a14453f6657bb19410.svg",
+    "static/media/ibm.svg": "/dash/static/media/ibm.15e8f143a79a53adf29565969035c503.svg",
+    "static/media/siemens.svg": "/dash/static/media/siemens.78d4a3eb40c67fb8c448354407220fe3.svg",
+    "static/media/toyota.svg": "/dash/static/media/toyota.97c4b4267ecdeff433c1b7eb9933a81d.svg",
+    "index.html": "/dash/index.html",
+    "static/media/twitch.svg": "/dash/static/media/twitch.3be5e8f8790bff76c018c5f45c79b136.svg",
+    "static/media/cloud.svg": "/dash/static/media/cloud.642edbf7447e65721b92f3bf219ce59d.svg",
+    "static/media/security.svg": "/dash/static/media/security.80442bb23c1853c3f3d14709ea278dc4.svg",
+    "static/media/docs.svg": "/dash/static/media/docs.5026b917385290adc9deb123b492d533.svg",
+    "static/media/estatistica.svg": "/dash/static/media/estatistica.c0a87fddda0105cdb9c063cd16e2ff6f.svg",
+    "static/media/pointer.svg": "/dash/static/media/pointer.02ea7ea91f2ff7bd1308ff4090e5d1aa.svg",
+    "static/media/finances.svg": "/dash/static/media/finances.c3032f12fc9b0cb3586d2ca3a8df8741.svg",
+    "static/media/get-started.svg": "/dash/static/media/get-started.2327fc5df5ec958efeb06750793ab96c.svg",
+    "static/media/get-started -white.svg": "/dash/static/media/get-started -white.5aee88bd46d6a72e6d44de4e364111f3.svg",
+    "main.372feb36.css.map": "/dash/static/css/main.372feb36.css.map",
+    "main.67bfdc64.js.map": "/dash/static/js/main.67bfdc64.js.map",
+    "453.b4e3de2c.chunk.js.map": "/dash/static/js/453.b4e3de2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372feb36.css",
+    "static/js/main.67bfdc64.js"
+  ]
+}
