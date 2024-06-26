@@ -1,0 +1,64 @@
+:root{
+    --font-family: "Golos Text", sans-serif;
+    --dash-orange: #f75820;
+    --dash-orange-light: #feefe9;
+    --orange-accent: #ffa148;
+    --orange-accent-light: #fff6ed;
+    --font-1-light: #141414;
+    --font-2-light: #595959;
+    --font-3-light: #afb8b7;
+    --line-light: #e6e6e6;
+    --white: #ffffff;
+    --background-light: #f9f9f9;
+    --font-1-dark: #f0f1f4;
+    --font-2-dark: #d0d0d0;
+    --font-3-dark: #a3a3a5;
+    --line-dark: #2c2d34;
+    --dark: #121212;
+    --background-dark: #242424;
+  }
+
+
+@media screen and (min-width: 769px){
+    #features{
+        text-align: center;
+        background-color: var(--background-dark);
+        padding: 5em 0;
+    }
+
+    .container-features{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        margin: 0 17em;
+        gap: 2em 1em;
+    }
+
+    .container-features div{
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        gap: 1em 0;
+    }
+
+    h3{
+        font-size: 24px;
+        color: var(--font-1-dark);
+        font-weight: 500;
+    }
+
+    .container-features img{
+        width: 32px;
+        height: 32px;
+        padding: 1em;
+        background-color: var(--dark);
+        border-radius: 10px;
+    }
+
+    .container-features p{
+        font-size: 16px;
+        gap: 1em;
+        line-height: 1.5;
+    }
+}
+

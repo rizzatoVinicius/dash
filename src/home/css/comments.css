@@ -1,0 +1,92 @@
+:root{
+    --font-family: "Golos Text", sans-serif;
+    --dash-orange: #f75820;
+    --dash-orange-light: #feefe9;
+    --orange-accent: #ffa148;
+    --orange-accent-light: #fff6ed;
+    --font-1-light: #141414;
+    --font-2-light: #595959;
+    --font-3-light: #afb8b7;
+    --line-light: #e6e6e6;
+    --white: #ffffff;
+    --background-light: #f9f9f9;
+    --font-1-dark: #f0f1f4;
+    --font-2-dark: #d0d0d0;
+    --font-3-dark: #a3a3a5;
+    --line-dark: #2c2d34;
+    --dark: #121212;
+    --background-dark: #242424;
+  }
+
+  @media screen  and (min-width: 769px){
+    #comments{
+        background-color: var(--dash-orange);
+        padding: 5em 15em;
+        display: flex;
+        align-items: center;
+        gap: 2em;
+    }
+
+    #comments div{
+
+    }
+
+    .comments-text{
+        background-color: var(--background-dark);
+        padding: 3em 4em 4em 2em;
+        border-radius: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 2em 0 ;
+    }
+
+    .comments-text p{
+        color: var(--font-1-dark);
+        font-size: 24px;
+    }
+
+    .comments-text div{
+        display: flex;
+        align-items: center;
+    }
+
+    .comments-text div div{
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        
+    }
+
+    .comments-name {
+        font-size: 18px;
+        color: white;
+        text-align: left; /* Alinha o texto à esquerda */
+    }
+    
+    .comments-office {
+        font-size: 14px;
+        color: var(--font-3-dark);
+        text-align: left ; /* Alinha o texto à esquerda */
+    }
+
+    .comments-perfil{
+        width: 48px;
+        height: 48px;
+        border-radius: 100%;
+    }
+
+    .comments-container-selo{
+        background-color: white;
+        padding: 5.5em 0 0 0 ;
+        border-radius: 15px;
+    }
+    .comments-container-selo div{
+        display: flex;
+    }
+
+    .selo{
+        width: 200px;
+    }
+
+    
+  }

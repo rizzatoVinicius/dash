@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap');
+
+:root{
+  --font-family: "Golos Text", sans-serif;
+  --dash-orange: #f75820;
+  --dash-orange-light: #feefe9;
+  --orange-accent: #ffa148;
+  --orange-accent-light: #fff6ed;
+  --font-1-light: #141414;
+  --font-2-light: #595959;
+  --font-3-light: #afb8b7;
+  --line-light: #e6e6e6;
+  --white: #ffffff;
+  --background-light: #f9f9f9;
+  --font-1-dark: #f0f1f4;
+  --font-2-dark: #d0d0d0;
+  --font-3-dark: #a3a3a5;
+  --line-dark: #2c2d34;
+  --dark: #121212;
+  --background-dark: #242424;
+}
+
+@media screen and (min-width: 769px){
+  #intro{
+    background-color: var(--dark);
+    text-align: center;
+  }
+
+  #container-intro{
+    text-align: center;
+    padding: 5em 0;
+
+  }
+
+  .intro-span{
+    color: var(--dash-orange);
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 0.2em   0.5em;
+    border: 1px solid var(--font-2-dark);
+    border-radius: 50px;
+  }
+
+  .intro-title{
+    font-size: 64px;
+    font-weight: 700;
+    margin: 0.5em 0 0.5em;
+  }
+
+  .intro-p{
+    font-size: 18px;
+  }
+
+  .container-intro-get-started{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4em 0 0;
+    gap: 1em;
+  }
+
+  .intro-get-started{
+    padding: 1em;
+    background-color: var(--dash-orange);
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    border-radius: 10px;
+  }
+
+  .intro-login{
+    padding: 1em;
+    background-color: var(--white);
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    border-radius: 10px;
+    color: var(--font-1-light);
+  }
+
+  #intro-img{
+    border-radius: 10px;
+    height: 768px;
+  }
+
+  #container-brands{
+    display: flex;
+    flex-direction: column;
+    padding: 7em 0 6em;
+    align-items: center;
+  }
+
+  #container-brands div {
+    display: flex;
+    gap: 10em;
+    margin: 2em 0 0;
+  }
+
+}
+
+
